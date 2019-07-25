@@ -1,0 +1,7 @@
+<map id="isBinary" name="isBinary">
+<area shape="rect" id="node2" href="$task2_8h.html#a24763b0af7e22a7c5b90b6dc5bead2d0" title="A function to construct a parse tree. " alt="" coords="123,5,233,32"/>
+<area shape="rect" id="node6" href="$task3_8h.html#a18fd709bb2e569a97e174a9a108b09b1" title="A function for traversing the parse tree .The in_order traversal gives infix form. " alt="" coords="125,56,231,83"/>
+<area shape="rect" id="node3" href="$main1_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="313,5,363,32"/>
+<area shape="rect" id="node4" href="$rules_8h.html#af7ccb74732ff770eab90b29fce933121" title="A function to check the given proof line with the proof rule. " alt="" coords="281,56,395,83"/>
+<area shape="rect" id="node5" href="$main2_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="443,56,493,83"/>
+</map>

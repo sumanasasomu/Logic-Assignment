@@ -1,0 +1,6 @@
+<map id="rules.h" name="rules.h">
+<area shape="rect" id="node2" href="$task1_8h.html" title="This file has the functions to perform task 1 to change infix to postfix form. " alt="" coords="269,80,334,107"/>
+<area shape="rect" id="node5" href="$task2_8h.html" title="This file has the functions required to perform task 2 which is to build a parse tree for given postf..." alt="" coords="38,80,103,107"/>
+<area shape="rect" id="node8" href="$task3_8h.html" title="This file has the functions required to perform task 3 which is for the in_order traversal of the par..." alt="" coords="127,80,193,107"/>
+<area shape="rect" id="node7" href="$operator_8h.html" title="This file has the functions to check if an operator is unary or binary. " alt="" coords="93,155,173,181"/>
+</map>

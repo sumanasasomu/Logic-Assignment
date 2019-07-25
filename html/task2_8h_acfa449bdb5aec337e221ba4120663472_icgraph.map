@@ -1,0 +1,6 @@
+<map id="createNode" name="createNode">
+<area shape="rect" id="node2" href="$task2_8h.html#a24763b0af7e22a7c5b90b6dc5bead2d0" title="A function to construct a parse tree. " alt="" coords="141,31,252,57"/>
+<area shape="rect" id="node3" href="$main1_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="331,5,382,32"/>
+<area shape="rect" id="node4" href="$rules_8h.html#af7ccb74732ff770eab90b29fce933121" title="A function to check the given proof line with the proof rule. " alt="" coords="300,56,413,83"/>
+<area shape="rect" id="node5" href="$main2_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="461,56,512,83"/>
+</map>

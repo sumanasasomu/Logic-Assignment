@@ -1,0 +1,7 @@
+<map id="buildBinaryTree" name="buildBinaryTree">
+<area shape="rect" id="node2" href="$task2_8h.html#acfa449bdb5aec337e221ba4120663472" title="A function to create a node and return a pointer pointing it. " alt="" coords="164,5,252,32"/>
+<area shape="rect" id="node3" href="$task2_8h.html#a70b54e0678d4c1514ee181a4ac984376" title="A function to push the pointer to node onto the stack2 array. " alt="" coords="179,56,237,83"/>
+<area shape="rect" id="node4" href="$operator_8h.html#a45f52e568efb476cf314cba90b103b0d" title="A function to check is it is a unary operator. " alt="" coords="175,107,241,133"/>
+<area shape="rect" id="node5" href="$task2_8h.html#a5cd70012f4f19064965dbafab6e0db2d" title="A function to pop the topmost pointer out of the stack2 array. " alt="" coords="183,157,233,184"/>
+<area shape="rect" id="node6" href="$operator_8h.html#ac5ddb6d13dd9b1125a63e6f4dd9e1aa5" title="A function to check is it is a binary operator. " alt="" coords="173,208,243,235"/>
+</map>

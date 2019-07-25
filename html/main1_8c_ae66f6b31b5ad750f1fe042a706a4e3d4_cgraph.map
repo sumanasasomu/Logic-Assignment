@@ -1,0 +1,13 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$task1_8h.html#a14db41fdb1a4a0d3a454c70bed4bf95e" title="A function to convert infix to postfix form. " alt="" coords="116,81,203,108"/>
+<area shape="rect" id="node6" href="$task3_8h.html#a18fd709bb2e569a97e174a9a108b09b1" title="A function for traversing the parse tree .The in_order traversal gives infix form. " alt="" coords="106,171,213,197"/>
+<area shape="rect" id="node9" href="$task2_8h.html#a24763b0af7e22a7c5b90b6dc5bead2d0" title="A function to construct a parse tree. " alt="" coords="104,247,215,273"/>
+<area shape="rect" id="node3" href="$task1_8h.html#abf7e4e60721b18a6f5e7b0ebca9ccd8a" title="A function to push an element onto the stack1 array. " alt="" coords="278,5,335,32"/>
+<area shape="rect" id="node4" href="$task1_8h.html#ad0e91b4c57e35505ebaac6921be739e2" title="A function to pop the topmost element out of the stack1 array. " alt="" coords="281,56,332,83"/>
+<area shape="rect" id="node5" href="$task1_8h.html#afc1f8a4f7d8a36e708357511990c1f43" title="A function to find the preference. " alt="" coords="271,107,343,133"/>
+<area shape="rect" id="node7" href="$operator_8h.html#ac5ddb6d13dd9b1125a63e6f4dd9e1aa5" title="A function to check is it is a binary operator. " alt="" coords="272,157,341,184"/>
+<area shape="rect" id="node8" href="$operator_8h.html#a45f52e568efb476cf314cba90b103b0d" title="A function to check is it is a unary operator. " alt="" coords="273,208,340,235"/>
+<area shape="rect" id="node10" href="$task2_8h.html#acfa449bdb5aec337e221ba4120663472" title="A function to create a node and return a pointer pointing it. " alt="" coords="263,259,351,285"/>
+<area shape="rect" id="node11" href="$task2_8h.html#a70b54e0678d4c1514ee181a4ac984376" title="A function to push the pointer to node onto the stack2 array. " alt="" coords="278,309,335,336"/>
+<area shape="rect" id="node12" href="$task2_8h.html#a5cd70012f4f19064965dbafab6e0db2d" title="A function to pop the topmost pointer out of the stack2 array. " alt="" coords="281,360,332,387"/>
+</map>
